@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Welcome to our organic farm with social outreach programs.">
-    <title>Organic Farm with Social Mission</title>
+    <meta name="description" content="Labricipus.">
+    <title>Hazelnoten, hazelaars en acceuil social</title>
     <style>
         body {
             font-family: 'Georgia', serif;
@@ -62,34 +62,17 @@
 <body>
     <header>
         <h1>Welcome to Our Organic Farm</h1>
-        <p>Growing fresh produce with a social impact</p>
+        <p>Hazelnoten, hazelaars en acceuil socialt</p>
     </header>
     <nav>
-        <a href="#about">About Us</a>
-        <a href="#products">Our Products</a>
-        <a href="#social-mission">Social Mission</a>
-        <a href="#contact">Contact</a>
+        <a href="#about">wie wij zijn</a>
+        <a href="#products">hazelnoten</a>
+        <a href="#social-mission">Acceuil social</a>
+        <a href="#contact">contact</a>
     </nav>
-    <div class="container">
-        <section id="about">
-            <h2>About Us</h2>
-            <p>Our organic farm is dedicated to sustainable agriculture and social inclusion.</p>
-        </section>
-        <section id="products">
-            <h2>Our Products</h2>
-            <p>We offer a variety of fresh, organic fruits and vegetables.</p>
-        </section>
-        <section id="social-mission">
-            <h2>Social Mission</h2>
-            <p>We provide employment opportunities and community support to those in need.</p>
-        </section>
-        <section id="contact">
-            <h2>Contact Us</h2>
-            <p>Email: info@organicfarm.com | Phone: (123) 456-7890</p>
-        </section>
-    </div>
+   
     <footer>
-        <p>&copy; 2025 Organic Farm. All rights reserved.</p>
+        <p>&copy; 2025 Labricipus. All rights reserved.</p>
     </footer>
 </body>
 </html>
